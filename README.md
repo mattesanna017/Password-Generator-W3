@@ -3,7 +3,7 @@
 ## Table of Contents
 - [User-Story](#user-story)
 - [Usage](#usage)
-- [Password-Generator-Screenshot] (#password-generator-screenshot)
+- [Password-Generator-Screenshot](#password-generator-screenshot)
 - [URL](#URL)
 
 
@@ -44,3 +44,4 @@ THEN the password is either displayed in an alert or written to the page
 ### Github Reposity
 https://github.com/mattesanna017/Password-Generator-W3
 ### View Deployment
+https://mattesanna017.github.io/Password-Generator-W3/
