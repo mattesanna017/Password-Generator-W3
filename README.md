@@ -3,6 +3,7 @@
 ## Table of Contents
 - [User-Story](#user-story)
 - [Usage](#usage)
+- [Password-Generator-Screenshot] (#password-generator-screenshot)
 - [URL](#URL)
 
 
@@ -34,6 +35,10 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Password-Generator-Screenshot
+
+![alt text](./Assets/03-javascript-homework-demo.png "screenshot of Password Generator")
 
 ## URL
 ### Github Reposity
